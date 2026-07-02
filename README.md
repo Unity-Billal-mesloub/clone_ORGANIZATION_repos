@@ -3,7 +3,7 @@
 
  # Clone Organization repos
 
-This repository provides scripts to efficiently clone all repositories from a GitHub organization. Both Bash and Python scripts are included for flexibility. At successful run of the script you will get the cloned repositories inside '__cloned_repos__' (configurable folder name). Use the [config file](https://github.com/DeltaE/clone_ORGANIZATION_repos/blob/main/config.env) to set your __GITHUB_TOKEN__ to access private clones from the organization.
+This repository provides scripts to efficiently clone all repositories from a GitHub organization. Both Bash and Python scripts are included for flexibility. At successful run of the script you will get the cloned repositories inside '__cloned_repos__' (configurable folder name). Use the [config file](https://github.com/Unity-Billal-mesloub/clone_ORGANIZATION_repos/blob/main/config.env) to set your __GITHUB_TOKEN__ to access private clones from the organization.
 
 > 🆕 **If the cloned repo exists, 🔄 it will sync the repos with the latest available version.**
 
@@ -25,7 +25,7 @@ Follow these steps to clone all repositories from a GitHub organization:
 ### Linux/MAC
 1. **Clone this repository:**
   ```bash
-  git clone https://github.com/DeltaE/clone_ORGANIZATION_repos.git
+  git clone https://github.com/Unity-Billal-mesloub/clone_ORGANIZATION_repos.git
   cd clone_ORGANIZATION_repos
   ```
 
